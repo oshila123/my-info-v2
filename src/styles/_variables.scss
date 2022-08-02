@@ -1,0 +1,42 @@
+/* overide vars */
+$primary_color : #264653;
+$secondary_color : #2a9d8f;
+
+$tertiary: #e9c46a;
+$quaternary : #f4a261;
+$quinary: #e76f51;
+
+$primary_font : 'Roboto', sans-serif;
+
+/* Bootstrap overrides */
+$theme-colors: (
+  "primary":  $primary_color,
+  "secondary": $secondary_color
+  // "dark" : $dark_color
+);
+$body-bg : #edf2f4;
+
+.text-tertiary{
+  color: $tertiary;
+}
+.text-quaternary{
+  color: $quaternary;
+}
+
+$font-family-base : $primary_font;
+$headings-font-family : $primary_font;
+// $font-size-base : 1.29rem;
+// $border-radius:0.6rem;
+$input-btn-focus-width:.1rem;
+// $border-width:0.5px;
+$form-group-margin-bottom:0.5rem;
+// $border-radius:15px;
+$btn-border-radius:6px;
+$btn-border-radius-lg:6px;
+$btn-border-radius-sm:6px;
+// $input-border-color:#808080;
+// $input-bg : $dark_color;
+// $input-color:$primary_color;
+
+$modal-header-border-color: none;
+$modal-content-border-radius:20px;

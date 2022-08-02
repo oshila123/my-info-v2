@@ -1,0 +1,24 @@
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4{
+    text-transform: uppercase 
+}
+
+p, .h5, h5, .h6, h6, li::first-letter {
+    text-transform: uppercase;
+}
+
+.parallax{
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    // height: 300px;
+}
+
+.university{
+    &:hover{
+        color: $tertiary;
+    }
+}

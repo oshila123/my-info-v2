@@ -1,0 +1,33 @@
+@import 'node_modules/bootstrap/scss/bootstrap-grid.scss';
+@import '../../styles/variables';
+
+.footer {
+    // position: absolute;
+    bottom: 0;
+    width: 100%;
+    line-height: 60px;
+
+    .sub-footer{
+      height: 50px;
+      // background-color: #caf0f8;
+    }
+
+  .main-footer{
+    height: 150px;
+    // background-color: #90e0ef;
+
+    @include media-breakpoint-down(md) {
+margin-bottom: 30px;
+    }
+
+    .footer{
+      padding-top: 75px;
+
+      a{
+&:hover{
+  color: $quinary;
+}
+      }
+    }
+  }
+}

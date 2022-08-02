@@ -1,0 +1,41 @@
+@import 'node_modules/bootstrap/scss/bootstrap-grid.scss';
+
+.parallax{
+    // background-image: url('../../assets/img/about.jpg');
+}
+
+.line {
+    /* 	flex-basis: 50%; */
+        font-size: 40px;
+        color: #14f7c1;
+        letter-spacing: 10px;
+        position: absolute;
+        opacity: 0;
+    }
+
+    .company {
+
+        // @include media-breakpoint-down(md) {
+            padding: 20px;
+            box-shadow: 0px 12px 30px 0px rgba(0, 0, 0, 0.2);
+            transition: all 800ms cubic-bezier(0.19, 1, 0.22, 1);
+        // }
+
+        // &:hover{
+        //     @include media-breakpoint-down(md) {
+        //         padding: 20px;
+        //     }
+        //     padding: 40px;
+        //     box-shadow: 0px 12px 30px 0px rgba(0, 0, 0, 0.2);
+        //     transition: all 800ms cubic-bezier(0.19, 1, 0.22, 1);
+        // }
+
+        .column-count{
+            column-count: 2;
+        }
+    }
+
+    
+
+
+    
