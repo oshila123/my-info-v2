@@ -1,13 +1,5 @@
 .project
 .DS_Store
-.buildpath
-*.prefs
-
-.vscode
-.idea
-.env
 
 node_modules/
-dist/
-ssl/
-build-info.json
+
