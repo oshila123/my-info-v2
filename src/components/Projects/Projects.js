@@ -24,7 +24,7 @@ const Projects = () => {
                                             <a href="https://developers.themoviedb.org/3" className="text-decoration-none university" target="_blank" rel="noopener noreferrer">TMDB API. </a>
                                             Within less than 2 weeks by working in my free time.
                                             </li>
-                                        <li>Used ReactJS version 17 (latest at the moment) for the project.</li>
+                                        <li>Used ReactJS version 17 (latest at that moment) for the project.</li>
                                         <li>More features will includes to the project with the time I have. </li>
                                         <li>Used Bootstrap with SCSS.</li>
                                         <li>Serverside pagination.</li>

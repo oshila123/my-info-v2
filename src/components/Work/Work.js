@@ -10,13 +10,55 @@ const Work = () => {
                         <h4>Working Experience</h4>
                     </div>
                     <div className="col-12">
+                        <div className="company mt-5 mb-5">
+                            <div className="">
+                                    <span className='h3-special'> <a href="https://ovinway.com/#/home" className="text-decoration-none university" target="_blank" rel="noopener noreferrer">Ovinway (Pvt) Ltd </a></span>
+                                    <span className='h4-special ml-5'> - Software Engineer</span>
+                                    <p className='mb-0'>May 2021 - present</p>
+                                    <div className='mb-3'>(outsourcing company)</div>
+                            </div>
+                            
+                            <div className="row">
+                                <div className="col-12 col-lg-4 ps-5">
+                                    <h3> <a href="https://www.whitehatjr.com/" className="text-decoration-none university" target="_blank" rel="noopener noreferrer">WhiteHatJr (Pvt) Ltd </a></h3>
+                                    <h5> of <a href="https://byjus.com/" className="text-decoration-none university" target="_blank" rel="noopener noreferrer">BYJU's</a> (outsourced)</h5>
+                                    <p>May 2021 - July 2022</p>
+                                </div>
+                                <div className="col-12 col-lg-8">
+                                    <ul>
+                                        <li>Worked in several teams in WhiteHatJr. Leader of the teams B2B and getEpic UI teams. </li>
+                                        <li>Team Leader, code reviewer.</li>
+                                        <li>Released the B2B product for WhiteHatJr. Participate from the begging to the end of the project.</li>
+                                        <li>Released the getEpic product for Indian users in 
+                                        <a href="https://www.getepic.com/in/" className="text-decoration-none university ms-1" target="_blank" rel="noopener noreferrer">getepic.com/in </a>
+                                        including the new payment-gateway for Indian users.
+                                        </li>
+                                        <li >Technologies used
+                                            <ul className="column-count">
+                                                <li>JavaScript</li>
+                                                <li>ReactJS</li>
+                                                <li>Angular</li>
+                                                <li>GIT</li>
+                                                <li>Bootstrap</li>
+                                                <li>CSS</li>
+                                                <li>SCSS</li>
+                                                <li>REST API</li>
+                                                <li>JIRA</li>
+                                                <li>ASANA</li>
+                                                <li>HTML5</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
 
                         <div className="company mt-5 mb-5">
                             <div className="row">
                                 <div className="col-12 col-lg-4">
                                     <h3> <a href="https://eightdigitz.com" className="text-decoration-none university" target="_blank" rel="noopener noreferrer">Media Box (Pvt) Ltd (Eight Digitz) </a></h3>
                                     <h4> Frontend Developer</h4>
-                                    <p >December 2020 - present</p>
+                                    <p>December 2020 - April 2021</p>
                                 </div>
                                 <div className="col-12 col-lg-8">
                                     <ul>
