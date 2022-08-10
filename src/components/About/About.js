@@ -31,8 +31,7 @@ const About = () => {
                             Experience in working under the mission and time-critical projects following all phases of SCRUM and Agile.
                             </div>
                             <div className="mt-3">
-                            Experience in team management, leading, code reviewing and mentoring individuals to maximize productivity while
-forming cohesive team environments with excellent communication skills.
+                            Experience in team management, leading, code reviewing and mentoring individuals to maximize productivity while forming cohesive team environments with excellent communication skills.
                             </div>
                         </div>
                     </div>
