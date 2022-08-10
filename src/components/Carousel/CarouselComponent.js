@@ -3,7 +3,6 @@ import { Carousel } from 'react-bootstrap';
 import * as moment from 'moment'
 
 import reactImage from '../../assets/img/react.jpg';
-// import react2Image from '../../assets/img/react-2.jpg';
 import angularImage from '../../assets/img/angular.jpg';
 import macImage from '../../assets/img/mac.jpg';
 import './CarouselComponent.scss';
