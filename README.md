@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Hosted in [https://oshila123.github.io/my-info-v2](https://oshila123.github.io/my-info-v2/)
+
 ## Available Scripts
 
 In the project directory, you can run:
